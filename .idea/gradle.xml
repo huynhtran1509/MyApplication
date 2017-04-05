@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Custom_Notification" />
+            <option value="$PROJECT_DIR$/android-CustomChoiceList-master" />
+            <option value="$PROJECT_DIR$/androidprolistview" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/customExpandableList" />
+            <option value="$PROJECT_DIR$/custom_notifications" />
+            <option value="$PROJECT_DIR$/expandableListDemo" />
+            <option value="$PROJECT_DIR$/expandablelist" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/myapplication3" />
+            <option value="$PROJECT_DIR$/notificationcompat" />
+            <option value="$PROJECT_DIR$/processbar2" />
+            <option value="$PROJECT_DIR$/progressbarWidget" />
+            <option value="$PROJECT_DIR$/readsms" />
+            <option value="$PROJECT_DIR$/test1" />
+            <option value="$PROJECT_DIR$/testalarmsleep" />
+            <option value="$PROJECT_DIR$/testintent" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

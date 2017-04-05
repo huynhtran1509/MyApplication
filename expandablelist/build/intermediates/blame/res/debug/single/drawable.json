@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\ferrari_f430.jpg",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\ferrari_f430.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\uncheck.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\uncheck.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\group_indicator.9.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\group_indicator.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\check.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\audi.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\audi.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\audi_q7.jpg",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\audi_q7.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\ferrari.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\ferrari.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\bmw_x6.jpg",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\bmw_x6.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\ferrari_enzo.jpg",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\ferrari_enzo.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\group_indicator_selector.xml",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\group_indicator_selector.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\audi_r8.jpg",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\audi_r8.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\group_indicator_expanded.9.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\group_indicator_expanded.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\ferrari_f430_italia.jpg",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\ferrari_f430_italia.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\bmw_m6.jpg",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\bmw_m6.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\bmw.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\bmw.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable\\audi_a4.jpg",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable\\audi_a4.jpg"
+    }
+]

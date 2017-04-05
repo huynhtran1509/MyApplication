@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandablelist.xml",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\layout\\activity_expandablelist.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\layout\\child_item.xml",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\layout\\child_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\layout\\group_item.xml",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\layout\\group_item.xml"
+    }
+]

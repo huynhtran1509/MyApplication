@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandablelist\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_search.png",
+        "source": "E:\\MyApplication\\expandablelist\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    }
+]

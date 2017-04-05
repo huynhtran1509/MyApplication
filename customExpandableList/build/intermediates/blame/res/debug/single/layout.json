@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\MyApplication\\customExpandableList\\build\\intermediates\\res\\merged\\debug\\layout\\childrow.xml",
+        "source": "E:\\MyApplication\\customExpandableList\\src\\main\\res\\layout\\childrow.xml"
+    },
+    {
+        "merged": "F:\\MyProjectsGithub\\MyApplication\\customExpandableList\\build\\intermediates\\res\\merged\\debug\\layout\\childrow.xml",
+        "source": "F:\\MyProjectsGithub\\MyApplication\\customExpandableList\\src\\main\\res\\layout\\childrow.xml"
+    },
+    {
+        "merged": "F:\\MyProjectsGithub\\MyApplication\\customExpandableList\\build\\intermediates\\res\\merged\\debug\\layout\\grouprow.xml",
+        "source": "F:\\MyProjectsGithub\\MyApplication\\customExpandableList\\src\\main\\res\\layout\\grouprow.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\customExpandableList\\build\\intermediates\\res\\merged\\debug\\layout\\grouprow.xml",
+        "source": "E:\\MyApplication\\customExpandableList\\src\\main\\res\\layout\\grouprow.xml"
+    }
+]

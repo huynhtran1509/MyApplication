@@ -1,0 +1,674 @@
+[
+    {
+        "outputFile": "E:\\MyApplication\\android-CustomChoiceList-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 42,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 43,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 44,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 42,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 41,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 58,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 58,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 67,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 53,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 53,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endLine": 20,
+                    "endColumn": 13,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endLine": 28,
+                        "endColumn": 13,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endColumn": 50,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 59,
+                    "endOffset": 883
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 888,
+                    "endColumn": 52,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 26,
+                    "endOffset": 963
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 968,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1486
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1491,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 1960
+                },
+                "from": {
+                    "file": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 42,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 43,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 44,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 42,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 41,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 58,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 58,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 67,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 53,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 53,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endLine": 20,
+                    "endColumn": 13,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endLine": 28,
+                        "endColumn": 13,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endColumn": 50,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 59,
+                    "endOffset": 883
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 888,
+                    "endColumn": 52,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 26,
+                    "endOffset": 963
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 968,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1486
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1491,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 1960
+                },
+                "from": {
+                    "file": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

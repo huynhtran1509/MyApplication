@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_hideable_item_unchecked.png",
+        "source": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\drawable-xhdpi\\ic_hideable_item_unchecked.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\android-CustomChoiceList-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_hideable_item_unchecked.png",
+        "source": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\drawable-xhdpi\\ic_hideable_item_unchecked.png"
+    },
+    {
+        "merged": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_hideable_item_checked.png",
+        "source": "F:\\MyProjectsGithub\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\drawable-xhdpi\\ic_hideable_item_checked.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\android-CustomChoiceList-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_hideable_item_checked.png",
+        "source": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\drawable-xhdpi\\ic_hideable_item_checked.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\android-CustomChoiceList-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\MyApplication\\android-CustomChoiceList-master\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

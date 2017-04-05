@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="page_margin">@dimen/margin_medium</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <string name="app_name">CustomChoiceList</string>
+    <string name="intro_message">
+        
+        
+            
+                This sample demonstrates how to create custom checkable layouts, for use with ListView\'s choiceMode
+                attribute.
+            
+        
+        
+    </string>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <style name="Widget.DescriptionBar">
+        <item name="android:background">#fb3</item>
+        <item name="android:paddingTop">@dimen/margin_medium</item>
+        <item name="android:paddingBottom">@dimen/margin_medium</item>
+        <item name="android:paddingLeft">@dimen/page_margin</item>
+        <item name="android:paddingRight">@dimen/page_margin</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

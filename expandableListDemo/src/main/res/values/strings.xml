@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FIFA WorldCup 2014</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Groups -->
+    <string-array name="groups">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+
+    <!-- Countries -->
+    <string-array name="countries">
+
+        <!-- A -->
+        <item>Brazil</item>
+        <item>Mexico</item>
+        <item>Croatia</item>
+        <item>Cameroon</item>
+        <!-- B -->
+        <item>Netherlands</item>
+        <item>Chile</item>
+        <item>Spain</item>
+        <item>Australia</item>
+        <!-- C -->
+        <item>Colombia</item>
+        <item>Greece</item>
+        <item>Ivory Coast</item>
+        <item>Cameroon</item>
+        <!-- D -->
+        <item>Costa Rica</item>
+        <item>Uruguay</item>
+        <item>Italy</item>
+        <item>England</item>
+        <!-- E -->
+        <item>France</item>
+        <item>Switerland</item>
+        <item>Ecuador</item>
+        <item>Honduras</item>
+        <!-- F -->
+        <item>Argentina</item>
+        <item>Nigeria</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Iran</item>
+        <!-- G -->
+        <item>Germany</item>
+        <item>United States</item>
+        <item>Portugal</item>
+        <item>Ghana</item>
+        <!-- H -->
+        <item>Belgium</item>
+        <item>Algeria</item>
+        <item>Russia</item>
+        <item>Korea Repulic</item>
+    </string-array>
+
+</resources>

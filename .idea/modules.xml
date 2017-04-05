@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Custom_Notification/Custom_Notification.iml" filepath="$PROJECT_DIR$/Custom_Notification/Custom_Notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-CustomChoiceList-master/android-CustomChoiceList-master.iml" filepath="$PROJECT_DIR$/android-CustomChoiceList-master/android-CustomChoiceList-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidprolistview/androidprolistview.iml" filepath="$PROJECT_DIR$/androidprolistview/androidprolistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customExpandableList/customExpandableList.iml" filepath="$PROJECT_DIR$/customExpandableList/customExpandableList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom_notifications/custom_notifications.iml" filepath="$PROJECT_DIR$/custom_notifications/custom_notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandableListDemo/expandableListDemo.iml" filepath="$PROJECT_DIR$/expandableListDemo/expandableListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelist/expandablelist.iml" filepath="$PROJECT_DIR$/expandablelist/expandablelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication3/myapplication3.iml" filepath="$PROJECT_DIR$/myapplication3/myapplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationcompat/notificationcompat.iml" filepath="$PROJECT_DIR$/notificationcompat/notificationcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processbar2/processbar2.iml" filepath="$PROJECT_DIR$/processbar2/processbar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbarWidget/progressbarWidget.iml" filepath="$PROJECT_DIR$/progressbarWidget/progressbarWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readsms/readsms.iml" filepath="$PROJECT_DIR$/readsms/readsms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testalarmsleep/testalarmsleep.iml" filepath="$PROJECT_DIR$/testalarmsleep/testalarmsleep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testintent/testintent.iml" filepath="$PROJECT_DIR$/testintent/testintent.iml" />
+    </modules>
+  </component>
+</project>

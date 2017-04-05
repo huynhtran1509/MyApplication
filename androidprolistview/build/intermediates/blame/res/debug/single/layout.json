@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\MyApplication\\androidprolistview\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyApplication\\androidprolistview\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\androidprolistview\\build\\intermediates\\res\\merged\\debug\\layout\\target_item.xml",
+        "source": "E:\\MyApplication\\androidprolistview\\src\\main\\res\\layout\\target_item.xml"
+    },
+    {
+        "merged": "F:\\MyProjectsGithub\\MyApplication\\androidprolistview\\build\\intermediates\\res\\merged\\debug\\layout\\target_item.xml",
+        "source": "F:\\MyProjectsGithub\\MyApplication\\androidprolistview\\src\\main\\res\\layout\\target_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\androidprolistview\\build\\intermediates\\res\\merged\\debug\\layout\\group_header_item.xml",
+        "source": "E:\\MyApplication\\androidprolistview\\src\\main\\res\\layout\\group_header_item.xml"
+    },
+    {
+        "merged": "F:\\MyProjectsGithub\\MyApplication\\androidprolistview\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\MyProjectsGithub\\MyApplication\\androidprolistview\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\MyProjectsGithub\\MyApplication\\androidprolistview\\build\\intermediates\\res\\merged\\debug\\layout\\group_header_item.xml",
+        "source": "F:\\MyProjectsGithub\\MyApplication\\androidprolistview\\src\\main\\res\\layout\\group_header_item.xml"
+    }
+]
